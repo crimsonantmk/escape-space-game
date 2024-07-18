@@ -16,7 +16,7 @@ pygame_py_file = os.path.join('escapespace', 'escapespace.py')
 ## The image and sound files are added manually into the zip file
 
 
-setup(  name = "Space Shooter",
+setup(  name = "escepe space",
         version = "0.0.2",
         description = "classic retro game made using pygame",
         options = {"build_exe": build_exe_options},
