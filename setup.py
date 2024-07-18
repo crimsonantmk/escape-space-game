@@ -11,7 +11,7 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-pygame_py_file = os.path.join('spaceshooter', 'spaceShooter.py')
+pygame_py_file = os.path.join('escapespace', 'escapespace.py')
 
 ## The image and sound files are added manually into the zip file
 
